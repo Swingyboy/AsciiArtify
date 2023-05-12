@@ -26,7 +26,7 @@ The following table shows the advantages and disadvantages of each tool:
 |kind	    |Easy to set up and use. Good documentation and community support. Can be run inside a Docker container.                      |Limited to a single node cluster. Limited support for Kubernetes addons|
 |k3d	    |Easy to set up and use. Fast startup time for small clusters.Built-in support for deploying Traefik as an ingress controller.|Limited to a single node cluster. Limited support for Kubernetes addons|
 
-##Demo
+## Demo
 ![Minikube]()
 ![kind]()
 ![k3d]()
